@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Peter Jackson</string>
+    <string name="txt_caption">Peter</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Peter is originally from England where he spent his first 26 years before
+        moving to the Chicago area for work. He currently lives in the Cary area and works downtown
+        for Motorola as a Project Manager. He likes playing boardgames and supports Tottenham Hotspur
+        football club.</string>
+</resources>
